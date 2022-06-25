@@ -3,6 +3,7 @@
 >el curso de git y gituhb mas polualr de la web
 
 creado por el increimble platzi team
+incluye ejemplos en w indos linkux y no mac
 # Editor.md
 
 
