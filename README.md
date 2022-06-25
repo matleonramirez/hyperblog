@@ -4,6 +4,7 @@
 
 creado por el increimble platzi team
 incluye ejemplos en w indos linkux y no mac
+disponible para todas las edaddes
 # Editor.md
 
 
