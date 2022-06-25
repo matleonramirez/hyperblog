@@ -1,6 +1,8 @@
 ### Features
 **Un blog increible para el gutso de git y github.**
 >el curso de git y gituhb mas polualr de la web
+
+creado por el increimble platzi team
 # Editor.md
 
 
